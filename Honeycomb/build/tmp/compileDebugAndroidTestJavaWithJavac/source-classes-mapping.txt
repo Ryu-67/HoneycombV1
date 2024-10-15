@@ -1,0 +1,2 @@
+com/core/base/test/BuildConfig.java
+ com.core.base.test.BuildConfig
